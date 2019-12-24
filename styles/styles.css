@@ -1,0 +1,70 @@
+/* .head-menu { */
+/* width: 71px;
+  height: 11px; */
+/* color: #03a9f4;
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-transform: uppercase; */
+/* Text style for "l, ifestyl" */
+/* color: #03a9f4;
+  text-align: center; */
+/* } */
+.head-button1,
+.head-button2,
+.head-button3,
+.head-button4 {
+  text-decoration: none;
+  text-align: center;
+  color: #03a9f4;
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-transform: uppercase;
+  /* Text style for "l, ifestyl" */
+  /* color: #03a9f4; */
+}
+li {
+  list-style-type: none;
+  /* Убираем маркеры */
+}
+/* li {
+  display: inline-block;
+} */
+.head-button1 {
+  color: #03a9f4;
+}
+.article-title {
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-size: 30px;
+  font-weight: 400;
+}
+.article {
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.sign {
+  width: 63px;
+  height: 11px;
+  color: #b4ad9e;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.footter-button {
+  color: #626262;
+  font-family: 'Playfair Display';
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+}
