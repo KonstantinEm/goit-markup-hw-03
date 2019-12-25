@@ -12,21 +12,23 @@
 /* color: #03a9f4;
   text-align: center; */
 /* } */
-.head-button1,
-.head-button2,
-.head-button3,
-.head-button4 {
+.head-button,
+.head-button,
+.head-button,
+.head-button {
   text-decoration: none;
   text-align: center;
-  color: #03a9f4;
   color: #626262;
   font-family: 'Playfair Display';
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
   text-transform: uppercase;
-  /* Text style for "l, ifestyl" */
-  /* color: #03a9f4; */
+ 
+}
+.head-button:hover,
+:focus {
+  color: #03a9f4;
 }
 li {
   list-style-type: none;
@@ -35,9 +37,7 @@ li {
 /* li {
   display: inline-block;
 } */
-.head-button1 {
-  color: #03a9f4;
-}
+
 .article-title {
   color: #626262;
   font-family: 'Playfair Display';
